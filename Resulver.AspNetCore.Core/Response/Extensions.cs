@@ -1,4 +1,4 @@
-﻿namespace Resulver.AspNetCore.Core.Core.Response;
+﻿namespace Resulver.AspNetCore.Core.Response;
 
 public static class Extensions
 {

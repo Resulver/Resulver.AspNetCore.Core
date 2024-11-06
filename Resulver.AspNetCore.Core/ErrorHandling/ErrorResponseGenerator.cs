@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
-using Resulver.AspNetCore.Core.Core.Abstraction;
+using Resulver.AspNetCore.Core.Abstraction;
 
-namespace Resulver.AspNetCore.Core.Core.ErrorHandling;
+namespace Resulver.AspNetCore.Core.ErrorHandling;
 
 public class ErrorResponseGenerator<TResponse> : IErrorResponseGenerator<TResponse>
 {

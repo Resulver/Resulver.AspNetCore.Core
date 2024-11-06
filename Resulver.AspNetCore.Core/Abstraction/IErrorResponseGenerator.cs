@@ -1,4 +1,4 @@
-﻿namespace Resulver.AspNetCore.Core.Core.Abstraction;
+﻿namespace Resulver.AspNetCore.Core.Abstraction;
 
 public interface IErrorResponseGenerator<out TResponse>
 {

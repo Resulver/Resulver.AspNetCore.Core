@@ -1,10 +1,10 @@
 using System.Reflection;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
-using Resulver.AspNetCore.Core.Core.Abstraction;
-using Resulver.AspNetCore.Core.Core.ErrorHandling;
+using Resulver.AspNetCore.Core.Abstraction;
+using Resulver.AspNetCore.Core.ErrorHandling;
 
-namespace Resulver.AspNetCore.Core.Core;
+namespace Resulver.AspNetCore.Core;
 
 public static class DependencyInjection
 {

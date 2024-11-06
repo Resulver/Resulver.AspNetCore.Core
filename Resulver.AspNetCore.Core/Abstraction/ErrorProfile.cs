@@ -1,6 +1,6 @@
-﻿using Resulver.AspNetCore.Core.Core.ErrorHandling;
+﻿using Resulver.AspNetCore.Core.ErrorHandling;
 
-namespace Resulver.AspNetCore.Core.Core.Abstraction;
+namespace Resulver.AspNetCore.Core.Abstraction;
 
 public abstract class ErrorProfile<TResponse>
 {

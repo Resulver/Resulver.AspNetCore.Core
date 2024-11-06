@@ -1,4 +1,4 @@
-﻿namespace Resulver.AspNetCore.Core.Core.ErrorHandling;
+﻿namespace Resulver.AspNetCore.Core.ErrorHandling;
 
 public abstract class ErrorResponseHandler<TResponse>
 {
