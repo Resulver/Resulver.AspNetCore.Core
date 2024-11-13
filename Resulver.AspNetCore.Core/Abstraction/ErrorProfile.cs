@@ -4,7 +4,7 @@ namespace Resulver.AspNetCore.Core.Abstraction;
 
 public abstract class ErrorProfile<TResponse>
 {
-    public List<ErrorResponseHandler<TResponse>> ErrorResponses => [];
+    public List<ErrorResponseHandler<TResponse>> ErrorResponses { get; } = [];
 
     protected abstract ErrorResponseHandler<TResponse> AddError<TError>()
         where TError : ResultError;
