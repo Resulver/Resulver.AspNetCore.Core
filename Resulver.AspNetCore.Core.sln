@@ -2,6 +2,11 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Resulver.AspNetCore.Core", "Resulver.AspNetCore.Core\Resulver.AspNetCore.Core.csproj", "{A54A480C-8BA4-45D5-981E-D6E50606DA9C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A3CE41D-DC9F-4159-98C3-8B373EDC55C7}"
+	ProjectSection(SolutionItems) = preProject
+		.github\workflows\main.yaml = .github\workflows\main.yaml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
