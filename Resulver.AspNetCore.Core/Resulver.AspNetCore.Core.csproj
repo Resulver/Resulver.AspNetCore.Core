@@ -11,7 +11,6 @@
         <RepositoryUrl>https://github.com/Resulver/Resulver.AspNetCore.Core</RepositoryUrl>
         <PackageLicenseUrl>..\LICENCE</PackageLicenseUrl>
         <Description>this is core of Resulver.AspNetCore packages</Description>
-        <PackageLicenseFile>LICENCE</PackageLicenseFile>
     </PropertyGroup>
 
     <ItemGroup>
